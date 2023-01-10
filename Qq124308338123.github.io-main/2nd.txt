@@ -1,0 +1,46 @@
+﻿<html>
+
+<head>
+<title>臭豆腐介紹</title>
+</head>
+
+<body>
+
+<h2>滷肉飯介紹</h2>
+
+熱油鍋，加入作法二的五花肉條肉塊，炒至豬肉的香氣出來。<p>
+        放入蒜酥和紅蔥頭酥伴炒香，再加入糖色炒，吵到肉都裹上的褐色的顏色後。
+    <p>
+        加入所有的調味料拌炒到聞到蒜香五香粉的香氣後。
+    <p>
+       最後加入煮五花肉時的高湯和幾片桂葉煮滾後放進電鍋。
+    <p>
+
+<img src="./image/001.jpg" alt="002的滷肉飯" width="800" height="600">
+
+<p>
+
+
+<a href="index.html">首頁</a>
+
+<a href="3rd.html">炒飯介紹</a>
+
+<a href="4th.html">蛋餅介紹</a>
+
+<a href="5th.html">吐司介紹</a>
+
+
+
+<p>練習用音樂、影片<p>
+
+
+<video width="400" height="300" controls>
+  <source src="001.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+
+</body>
+
+</html>

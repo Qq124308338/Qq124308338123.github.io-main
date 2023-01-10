@@ -1,0 +1,46 @@
+﻿<html>
+
+<head>
+<title>介紹</title>
+</head>
+
+<body>
+
+<h2>蛋餅介紹</h2>
+
+將中筋麵粉、地瓜粉、水、少許鹽巴及適量的蔥、1個雞蛋混合均勻成蛋餅粉漿。<p>
+         冷鍋冷油，用湯勺舀入一大匙粉漿，晃動鍋身使其均勻覆滿鍋面，加熱至凝固成型。
+    <p>
+         喜歡有一點點脆的可以定型後開個中火讓邊邊有一點點焦。 
+    <p>
+       將蔥蛋汁倒入鍋中蓋上餅皮，來回翻面續煎數次至蛋熟，蛋餅呈現金黃色，將蛋餅捲起後盛盤，切塊淋上甜辣醬即可品嘗。
+    <p>盛盤
+
+<img src="./image/003.jpg" alt="004的吐司" width="800" height="600">
+
+<p>
+
+
+<a href="index.html">滷肉飯</a>
+
+<a href="3rd.html">炒飯介紹</a>
+
+<a href="4th.html">首頁介紹</a>
+
+<a href="5th.html">吐司介紹</a>
+
+
+
+<p>練習用音樂、影片<p>
+
+
+<video width="400" height="300" controls>
+  <source src="003.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+
+</body>
+
+</html>

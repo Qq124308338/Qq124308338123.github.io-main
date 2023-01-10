@@ -1,0 +1,55 @@
+﻿<html>
+
+<head>
+<title>美食介紹</title>
+</head>
+
+<body>
+
+<h2>上課心得</h2>
+
+我很謝謝老師。<p>
+        很細心的教導我們。
+    <p>
+        讓我們學習到很不一樣的體驗。
+    <p>
+        真的用生難忘。
+    <p>
+        希望老師可以讓我過
+。
+    <p>
+        謝謝老師愛你。
+    <p>
+
+<img src="./圖片/001.jpg" alt="001的滷肉飯" width="400" height="300">
+<img src="./圖片/002.jpg" alt="002的炒飯" width="400" height="300">
+<img src="./圖片/003.jpg" alt="003的蛋餅" width="400" height="300">
+<img src="./圖片/004.jpg" alt="004的土司" width="400" height="300">
+
+<p>
+
+<a href="2nd.html">滷肉飯介紹</a>
+
+<a href="3rd.html">炒飯介紹</a>
+
+<a href="4th.html">蛋餅介紹</a>
+
+<a href="5th.html">吐司介紹</a>
+
+
+
+<p>練習用音樂、影片<p>
+
+<audio autoplay controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="006.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+</video>
+
+
+</body>
+
+</html>
